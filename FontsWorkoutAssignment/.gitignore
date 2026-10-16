@@ -1,0 +1,13 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pfx
+*.p12
+*.keystore
+*.jks
+.env
+.env.*

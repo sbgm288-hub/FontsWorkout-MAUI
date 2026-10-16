@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="First_Muai_project.Service.FontsWorkout"
+             Title="Fonts Workout">
+    <VerticalStackLayout Padding="30" Spacing="24" VerticalOptions="Center">
+        <Label Text="Hello from my first APP"
+               FontFamily="OpenSansRegular"
+               FontSize="28"
+               HorizontalTextAlignment="Center" />
+        <Button Text="&#xE88A;"
+                FontFamily="MaterialIcons"
+                FontSize="36"
+                HorizontalOptions="Center"
+                SemanticProperties.Description="Home" />
+    </VerticalStackLayout>
+</ContentPage>
